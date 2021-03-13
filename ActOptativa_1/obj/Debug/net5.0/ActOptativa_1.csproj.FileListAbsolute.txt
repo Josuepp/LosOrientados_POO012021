@@ -1,0 +1,16 @@
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\bin\Debug\net5.0\ActOptativa_1.exe
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\bin\Debug\net5.0\ActOptativa_1.deps.json
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\bin\Debug\net5.0\ActOptativa_1.runtimeconfig.json
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\bin\Debug\net5.0\ActOptativa_1.runtimeconfig.dev.json
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\bin\Debug\net5.0\ActOptativa_1.dll
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\bin\Debug\net5.0\ref\ActOptativa_1.dll
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\bin\Debug\net5.0\ActOptativa_1.pdb
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\obj\Debug\net5.0\ActOptativa_1.csprojAssemblyReference.cache
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\obj\Debug\net5.0\ActOptativa_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\obj\Debug\net5.0\ActOptativa_1.AssemblyInfoInputs.cache
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\obj\Debug\net5.0\ActOptativa_1.AssemblyInfo.cs
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\obj\Debug\net5.0\ActOptativa_1.csproj.CoreCompileInputs.cache
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\obj\Debug\net5.0\ActOptativa_1.dll
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\obj\Debug\net5.0\ref\ActOptativa_1.dll
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\obj\Debug\net5.0\ActOptativa_1.pdb
+C:\Users\Josue\Desktop\UCA\2021\POO\POO0121\ActOptativa_1\obj\Debug\net5.0\ActOptativa_1.genruntimeconfig.cache
