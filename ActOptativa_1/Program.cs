@@ -14,12 +14,12 @@ namespace ActOptativa_1
             Console.WriteLine("Digite el valor de b: ");
             b = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Restando {a} - {b} es igual a:  {AddNumbers(a,b)} ");
+            Console.WriteLine($"Multiplicando {a} * {b} es igual a:  {AddNumbers(a,b)} ");
         }
 
         public static int AddNumbers(int a, int b)
         {
-            return a - b;
+            return a * b;
         }
     }
 }
